@@ -41,4 +41,4 @@ Although this GitHub space mainly showcases my coding skills, I’d also like to
 
 **Connect with me:**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-fajardo-m5237)      [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santiagofmla?igsh=MWk5b2V1ZGYwY3lrbQ%3D%3D&utm_source=qr)     [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/tu-usuario](https://x.com/3_fiver_7?s=11))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-fajardo-m5237)      [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santiagofmla?igsh=MWk5b2V1ZGYwY3lrbQ%3D%3D&utm_source=qr)     [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/3_fiver_7?s=11)
