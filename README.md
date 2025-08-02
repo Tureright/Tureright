@@ -1,13 +1,10 @@
 # 👨‍💻 Welcome to my GitHub profile!  
 
-This GitHub profile features some of my most notable work 🙂. Each repository reflects what I’ve learned so far in software development, and I’m constantly striving to grow and improve.
+Here, you can find the projects I've been working on, especially the most notable ones 🙂. Each repository reflects what I’ve learned so far in software development, and I’m constantly striving to grow and improve.
 
 <p align="center">
   <img src="https://media.giphy.com/media/BFw8UdyN2eTahirZbx/giphy.gif" alt="Funny Duck GIF" width="200" />
 </p>
-
-
-
 
 ## Repositories
 > ### 1: ERP-Gardner-Academy
