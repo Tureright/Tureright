@@ -7,16 +7,15 @@ Here, you can find the projects I've been working on, especially the most notabl
 </p>
 
 ## Repositories
-> ### 1: ERP-Gardner-Academy
+> ### 1: ERP-API-Testing
 
-This project focuses on the **frontend development of an Enterprise Resource Planning** (ERP) system. It was built by a team of three, and I was mainly in charge of developing the modules for managing payrolls and calendars.
+This project focuses on validating the functionality and reliability of the ERP system’s API endpoints through automated and manual testing.
 
 **Technologies used:**  
-🔹 React  
-🔹 TypeScript and JavaScript  
-🔹 React Query  
-🔹 Tailwind CSS  
-  
+🔹 Karate Labs  
+🔹 Postman  
+🔹 Gherkin  
+
 > ### 2: API-Payrolls
 
 This project outlines the **backend development** of the ERP system. It was built using the Google Apps Script platform, leveraging its environment to expose functions as API endpoints without the need to deploy an external server.
@@ -28,14 +27,26 @@ This project outlines the **backend development** of the ERP system. It was buil
 🔸 Google Workspace Admin Console  
 🔸 QUnitGS2  
 
+> ### 3: ERP-Gardner-Academy
+
+This project focuses on the **frontend development of an Enterprise Resource Planning** (ERP) system. It was built by a team of three, and I was mainly in charge of developing the modules for managing payrolls and calendars.
+
+**Technologies used:**  
+🔹 React  
+🔹 TypeScript and JavaScript  
+🔹 React Query  
+🔹 Tailwind CSS  
+  
+
+
 ## About Me
 
-I’m passionate about software development in all its forms and applications: web development, mobile, testing, design, and more.
-Although this GitHub space mainly showcases my coding skills, I’d also like to **highlight my experience and strong interest in software design**, particularly in the following areas:
+I’m passionate about software development in all its forms and applications: Programming, Automated Testing and UX/UI Design.
+Although this GitHub space mainly showcases my coding and testing skills, I’d also like to **highlight my experience and strong interest in software design**, particularly in the following areas:
 
 ✨ Software architecture design, especially using the **C4 Model** approach.  
 ✨ User-centered product design and **user experience** (UX) design, applying techniques such as Design Thinking, UX Research, and core design principles.  
 
 **Connect with me:**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-fajardo-m5237)      [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santiagofmla?igsh=MWk5b2V1ZGYwY3lrbQ%3D%3D&utm_source=qr)     [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/3_fiver_7?s=11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-fajardo-m5237)      [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santiagofmla?igsh=MWk5b2V1ZGYwY3lrbQ%3D%3D&utm_source=qr)     
