@@ -7,36 +7,21 @@ Here, you can find the projects I've been working on, especially the most notabl
 </p>
 
 ## Repositories
-> ### 1: ERP-API-Testing
+> ### 1: Testing
+These repositories showcase my experience in software testing:  
 
-This project focuses on validating the functionality and reliability of the ERP system’s API endpoints through automated and manual testing.
+1. https://github.com/Tureright/ERP-API-Testing.git 🔹 Karate 🔹 Postman 🔹 Gherkin 
+2. https://github.com/Tureright/demoblaze-tests.git 🔹 Selenium WebDriver 🔹 Karate 🔹 Gherkin 
+3. https://github.com/Tureright/performance-test-k6.git 🔹 K6 🔹 Performance Testing 
+4. https://github.com/Tureright/pruebas-mobile.git 🔹 Bootcamp Project🔹 Appium 🔹 Serenity
 
-**Technologies used:**  
-🔹 Karate Labs  
-🔹 Postman  
-🔹 Gherkin  
 
-> ### 2: API-Payrolls
+> ### 2: Coding
 
-This project outlines the **backend development** of the ERP system. It was built using the Google Apps Script platform, leveraging its environment to expose functions as API endpoints without the need to deploy an external server.
+This project outlines my coding and software development skills:
 
-**Technologies used:**  
-🔸 Google Apps Script  
-🔸 Firestore  
-🔸 Google Calendar  
-🔸 Google Workspace Admin Console  
-🔸 QUnitGS2  
-
-> ### 3: ERP-Gardner-Academy
-
-This project focuses on the **frontend development of an Enterprise Resource Planning** (ERP) system. It was built by a team of three, and I was mainly in charge of developing the modules for managing payrolls and calendars.
-
-**Technologies used:**  
-🔹 React  
-🔹 TypeScript and JavaScript  
-🔹 React Query  
-🔹 Tailwind CSS  
-  
+1. https://github.com/Tureright/API-Payrolls.git 🔸 Backend 🔸 JavaScript 🔸 Google Apps Script 🔸 Firestore 🔸 TDD
+2. https://github.com/Tureright/ERP-Gardner-Academy.git 🔸 Frontend 🔸 React 🔸 TypeScript 🔸 Tailwind
 
 
 ## About Me
